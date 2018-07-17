@@ -1,18 +1,18 @@
 # Homebrew-qgisdev
 
-[![Build Status](https://travis-ci.org/qgis/homebrew-qgisdev.svg?branch=master)](https://travis-ci.org/qgis/homebrew-qgisdev)
+[![Build Status](https://travis-ci.org/tbadard/homebrew-qgisdev.svg?branch=master)](https://travis-ci.org/tbadard/homebrew-qgisdev)
 
 Formulae for macOS Homebrew package manager to aid in building the development branch of QGIS.
 
 ## How do I install these formulae?
-`brew install qgis/qgisdev/<formula>`
+`brew install tbadard/qgisdev/<formula>`
 
-Or `brew tap qgis/qgisdev` and then `brew install <formula>`.
+Or `brew tap tbadard/qgisdev` and then `brew install <formula>`.
 
 Or install via URL (which will not receive updates):
 
 ```
-brew install https://raw.githubusercontent.com/qgis/homebrew-qgisdev/master/Formula/<formula>.rb
+brew install https://raw.githubusercontent.com/tbadard/homebrew-qgisdev/master/Formula/<formula>.rb
 ```
 
 There may be formulae in this tap that conflict with (meant to override) formulae of the same name available in other or core `Homebrew/Homebrew-*` taps. You can *prioritize* the formulae in this tap over all others with:
