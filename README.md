@@ -17,7 +17,7 @@ brew install https://raw.githubusercontent.com/tbadard/homebrew-qgisdev/master/F
 
 There may be formulae in this tap that conflict with (meant to override) formulae of the same name available in other or core `Homebrew/Homebrew-*` taps. You can *prioritize* the formulae in this tap over all others with:
 ```
-brew tap-pin qgis/qgisdev
+brew tap-pin tbadard/qgisdev
 ```
 
 ## Homebrew documentation
